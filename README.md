@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Jonas</h1>
-<h3 align="center">A game enginner from Brazil</h3>
+<h2 align="center">Welcome to my GitHub profile~ OwO</h2>
 
 ###
 
@@ -14,8 +14,14 @@
 
 ###
 
+<h2 align="center">About me</h2>
 
+###
 
+<h2 align="center">Knowledge</h2>
 
+###
 
+<h2 align="center">Contact me</h2>
 
+###
