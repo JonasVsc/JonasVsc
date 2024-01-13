@@ -64,7 +64,7 @@ I'm also very good at making scenarios and stories in the context of game develo
 </p>
 
 <p align="center">
-  <a href="https://www.JonasVsc.com"><img src="contacme.jpg" alt="Contact me Image"></a>
+  <a href="https://www.JonasVsc.com"><img src="contactme.jpg" alt="Contact me Image"></a>
 </p>
 
 
