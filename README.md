@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://www.JonasVsc.com"><img src="kita-ikuyo-rap.webp" alt="Cool Image"></a>
+  <a href="https://www.JonasVsc.com"><img src="hihi.png" alt="Cool Image"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jonas</h1>
-<h3 align="center">A computer engineer from Brazil</h3>
+<h3 align="center">A game enginner from Brazil</h3>
 
 ###
 
