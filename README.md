@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hihi.png" alt="Cool Image">
+  <img width="600" src="hihi.png" alt="Cool Image">
 </p>
 
 <h1 align="center">Hi 👋, I'm Jonas</h1>
@@ -49,6 +49,11 @@ I'm also very good at making scenarios and stories in the context of game develo
 ###
 
 <h2 align="center">Contact me</h2>
+
+<p align="center">
+  <img width="600" src="contactme.jpg" alt="Contact me Image">
+</p>
+
 <p align="center">
   <a href="https://instagram.com/jonas.cmaismais" target="_blank">
     <img src="https://img.shields.io/badge/JonasVsc-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
@@ -62,11 +67,6 @@ I'm also very good at making scenarios and stories in the context of game develo
     <img src="https://img.shields.io/badge/JonasVsc-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="contactme.jpg" alt="Contact me Image">
-</p>
-
 
 
 
