@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.JonasVsc.com"><img src="hihi.png" alt="Cool Image"></a>
+  <img src="hihi.png" alt="Cool Image">
 </p>
 
 <h1 align="center">Hi 👋, I'm Jonas</h1>
@@ -64,7 +64,7 @@ I'm also very good at making scenarios and stories in the context of game develo
 </p>
 
 <p align="center">
-  <a href="https://www.JonasVsc.com"><img src="contactme.jpg" alt="Contact me Image"></a>
+  <img src="contactme.jpg" alt="Contact me Image">
 </p>
 
 
