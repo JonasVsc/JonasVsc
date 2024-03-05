@@ -43,16 +43,11 @@
 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <br>
-I'm also very good at making scenarios and stories in the context of game development
 </p>
 
 ###
 
 <h2 align="center">Contact me</h2>
-
-<p align="center">
-  <img width="600" src="contactme.jpg" alt="Contact me Image">
-</p>
 
 <p align="center">
   <a href="https://instagram.com/jonas.cmaismais" target="_blank">
