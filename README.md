@@ -1,9 +1,5 @@
-<p align="center">
-  <img width="600" src="hihi.png" alt="Cool Image">
-</p>
-
 <h1 align="center">Hi 👋, I'm Jonas</h1>
-<h2 align="center">Welcome to my GitHub profile~ OwO</h2>
+<h2 align="center">Welcome to my GitHub profile</h2>
 
 ###
 
