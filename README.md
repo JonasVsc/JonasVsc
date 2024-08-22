@@ -15,8 +15,10 @@
 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <br>
-</p>
-<p>
+
+While you're mastering the latest frameworks and libraries, I'm decoding the secrets of data structures and algorithms, because when the hype fades, the foundations still matter. 👀
+
+
 
 
 
