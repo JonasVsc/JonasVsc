@@ -12,10 +12,14 @@
   </tr>
 </table>
 
+<hr>
+<hr>
+<hr>
+
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasvsc&size_weight=0.5&count_weight=0.5&theme=transparent" alt="Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasvsc&theme=transparent&hide=html,css,cmake,glsl" alt="Langs"/>
     </td>
     <td style="vertical-align: middle;">
       <img src="https://github-readme-stats.vercel.app/api?username=jonasvsc&show_icons=true&theme=transparent" alt="Stats"/>
@@ -23,31 +27,5 @@
   </tr>
 </table>
 
-<h1>Languages</h1>
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></td>
-    <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></td>
-    <td><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
-    <td><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
-    <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></td>
-  </tr>
-    
-  </tr>
-</table>
 
-<h1>Tools & Frameworks</h1>
-<table>
-  <tr>
-    <td colspan="2"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/></td>
-    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></td>
-    <td><img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="OpenGL"/></td>
-  </tr>
-</table>
-<br>
+
