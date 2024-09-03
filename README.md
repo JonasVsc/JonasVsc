@@ -1,5 +1,6 @@
 <h1>About me</h1>
 
+
 <table>
   <tr>
     <td>I'm passionate about software development, with a strong focus on C++ and OpenGL for creating real-time graphics and visualizations. While Vulkan is on my radar, I'm currently diving deep into mastering OpenGL.</td>
@@ -26,6 +27,8 @@
     </td>
   </tr>
 </table>
+
+<img src="cry.jpg"/>
 
 
 
