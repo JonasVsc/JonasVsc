@@ -11,6 +11,9 @@
   <tr>
     <td>Lately, I've begun exploring the world of competitive programming, challenging myself to solve complex problems and refine my skills.</td>
   </tr>
+  <tr>
+    <td>I'm taking adventures exploring source language implementation and studying the intricacies of how programming languages are built.</td>
+  </tr>
 </table>
 
 <hr>
