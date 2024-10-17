@@ -30,8 +30,3 @@
     </td>
   </tr>
 </table>
-
-<img src="cry.jpg"/>
-
-
-
